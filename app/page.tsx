@@ -1,3 +1,8 @@
 export default function Home() {
-  return <h1>Welcome to Poseidon Jewelry</h1>;
+  return (
+    <main>
+      <h1>Welcome to Poseidon Jewelry</h1>
+      <p>Your online store for premium jewelry.</p>
+    </main>
+  );
 }
