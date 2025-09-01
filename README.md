@@ -1,4 +1,8 @@
-# Poseidon Jewelry — Minimal Next.js Starter
+# Poseidon Jewelry
 
-This is a minimal Next.js 14 starter to deploy on Vercel.
-Edit `app/page.tsx` to change the homepage text.
+This is an online jewelry store built with Next.js.
+
+## Commands
+- npm run dev – start development
+- npm run build – build production
+- npm run start – start production server
